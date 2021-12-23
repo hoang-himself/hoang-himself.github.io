@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "uses": 1,
+    "purchase": {
+        "subscription_cancelled_at": "2286-11-20T17:46:39.999Z",
+        "email": "keyfermath@gmail.com",
+        "variants": "(Unlimited Licenses)",
+        "subscription_failed_at": "1970-04-26T17:46:39.999Z"
+    }
+}
